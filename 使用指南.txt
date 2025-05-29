@@ -1,0 +1,7 @@
+该项目时Scyther工具，用于验证协议的安全性。
+conda环境文件为environment.yml，在项目的根目录下。
+通过conda创建相应的运行环境“conda env create -f environment.yml”。
+通过VSCode打开项目文件，或是直接使用文件资源管理器打开项目文件。
+使用Python运行Scyther的图形化界面”Scyther-gui.py“。
+我自己编写的协议文件在”/Protocols/Demo/maoxinProtocol/“文件夹下。
+注意！！不要轻易删除该项目中的任何文件。
